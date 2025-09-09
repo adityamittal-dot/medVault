@@ -1,0 +1,27 @@
+{
+  "name": "medvault",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adityamittal-dot/medVault.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adityamittal-dot/medVault/issues"
+  },
+  "homepage": "https://github.com/adityamittal-dot/medVault#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.18.1",
+    "next": "^15.5.2"
+  }
+}
